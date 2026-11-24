@@ -1,6 +1,4 @@
-remote_theme: poole/poole
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-primer
 
 title: Kurzyx - Developer portfolio & projects
 description: Personal page of Kurzyx. Exploring open-source and other software projects.
